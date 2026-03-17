@@ -1,11 +1,3 @@
-
----
-
-# README.md for the Repository
-
-Your GitHub landing page should look something like this:
-
-```markdown
 # Unobi Python Training
 
 Welcome to the official training repository for **Unobi Python Courses**.
